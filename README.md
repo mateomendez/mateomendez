@@ -16,7 +16,7 @@ I’m a 23 years old Argentinian Full Stack Developer. I’ve studied at Henry�
 ## :inbox_tray: Contact Me
 
 <a href="https://www.linkedin.com/in/mateo-mendez-139753168"> <img src="https://user-images.githubusercontent.com/33359910/193294545-da3b1007-c845-4f1c-b4c6-dff7ba16c4e9.png" width="50" heigth="50"> </a>
-<a href="https://www.linkedin.com/in/mateo-mendez-139753168"> <img src="https://user-images.githubusercontent.com/33359910/193295270-283aee7a-50f0-4dc8-96d7-2a572774073a.png" width="50" heigth="50" style="border-radius: 15px"> </a>
+<a href="mailto:mateom2305@gmail.com"> <img src="https://user-images.githubusercontent.com/33359910/193295270-283aee7a-50f0-4dc8-96d7-2a572774073a.png" width="50" heigth="50" style="border-radius: 15px"> </a>
 
 
 
